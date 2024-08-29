@@ -1,0 +1,12 @@
+{
+  "lsp": {
+    "rust-analyzer": {
+      "cargo": {
+        "allTargets": false
+      },
+      "cargo-watch": {
+        "arguments": ["--target", "xtensa-esp32-none-elf"]
+      }
+    }
+  }
+}
